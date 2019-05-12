@@ -1,13 +1,8 @@
-<h2 align="center" > Youtube playlist duration in javascript</h2>
-
-<p>
-See the playlist duration on youtube.</span>
-</p>
-
+<h1 align="center" > Youtube playlist duration in javascript</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/11466066/57586456-90066780-74cc-11e9-9f19-7411e3b7c74e.png"
-width=100px>
+width=150px>
 </p>
 
 ## Usage :smile:
